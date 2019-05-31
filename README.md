@@ -1,14 +1,16 @@
 # README
 
-## Docker
+## Extensions
+
+### Docker
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
 
-## ERB
+### ERB
 
 - [erb](https://marketplace.visualstudio.com/items?itemName=CraigMaslowski.erb)
 
-## git/GitHub
+### git/GitHub
 
 - [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 - [GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
@@ -16,18 +18,18 @@
 - [ignore "g"it](https://marketplace.visualstudio.com/items?itemName=Andreabbondanza.ignoregit)
 - [Open in GitHub](https://marketplace.visualstudio.com/items?itemName=ziyasal.vscode-open-in-github)
 
-## HAML
+### HAML
 
 - [Better Haml](https://marketplace.visualstudio.com/items?itemName=karunamurti.haml)
 - [haml-lint](https://marketplace.visualstudio.com/items?itemName=aki77.haml-lint)
 
-## HTML/CSS
+### HTML/CSS
 
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 - [IntelliSense for CSS classes](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 
-## JavaScript
+### JavaScript
 
 - [Airbnb react snippets](https://marketplace.visualstudio.com/items?itemName=cobeia.airbnb-react-snippets)
 - [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
@@ -37,12 +39,12 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 
-## Markdown
+### Markdown
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-## Productivity
+### Productivity
 
 - [advanced-new-file](https://marketplace.visualstudio.com/items?itemName=patbenatar.advanced-new-file)
 - [Auto Add Brackets](https://marketplace.visualstudio.com/items?itemName=aliariff.auto-add-brackets)
@@ -60,7 +62,7 @@
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 - [VSCode Great Icons](https://marketplace.visualstudio.com/items?itemName=emmanuelbeziat.vscode-great-icons)
 
-## Rails
+### Rails
 
 - [Rails Fast Nav](https://marketplace.visualstudio.com/items?itemName=jemmyw.rails-fast-nav)
 - [Rails Flip-Flop](https://marketplace.visualstudio.com/items?itemName=bweave.rails-flip-flop)
@@ -70,7 +72,7 @@
 - [Ruby on Rails Snippets](https://marketplace.visualstudio.com/items?itemName=hridoy.rails-snippets)
 - [vscode-gemfile](https://marketplace.visualstudio.com/items?itemName=bung87.vscode-gemfile)
 
-## Ruby
+### Ruby
 
 - [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
 - [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
@@ -79,15 +81,15 @@
 - [vscode-ruby-ctags](https://marketplace.visualstudio.com/items?itemName=otoniel-isidoro.vscode-ruby-ctags)
 - [YARD Documenter](https://marketplace.visualstudio.com/items?itemName=pavlitsky.yard)
 
-## SASS
+### SASS
 
 - [Sass Lint](https://marketplace.visualstudio.com/items?itemName=glen-84.sass-lint)
 - [Sass](https://marketplace.visualstudio.com/items?itemName=robinbentley.sass-indented)
 
-## Slim
+### Slim
 
 - [Slim](https://marketplace.visualstudio.com/items?itemName=sianglim.slim)
 
-## YAML
+### YAML
 
 - [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
